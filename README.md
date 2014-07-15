@@ -2,7 +2,7 @@
 
 For a while, we've used [Flask](http://flask.pocoo.org) for web app engineering at [MathHarbor](http://mathharbor.com). Recently, we started looking at a major revamp, and it soon became pretty obvious Javascript was the ideal language. However, frameworks like Express, Opa, and Sail didn't exactly appeal to us, more so because I happen to be a Coffeescript fan, and that led us to think of doing something of our own. We came across [Berliner](http://berliner.jcoglan.com), modified and updated it - it hasn't been active for over two years now - and here we are.
 
-Neu Berliner is an extremely lightweight framework for Coffeescript apps. It allows you to do a lot, with minimal code - create routes based on request type and path name, manipulate sessions and cookies, handle WebSocket and EventSource connections, render EJB, HAML and plaintext templates. Oh, and you can use any Node.js package with it. Win-win!
+Neu Berliner is an extremely lightweight framework for Coffeescript apps. It allows you to do a lot, with minimal code - create routes based on request type and path name, manipulate sessions and cookies, handle WebSocket and EventSource connections, render EJB, HAML and plaintext templates. Oh, and you can use any Node.js package with it. Win-win! Check out basic docs [here](https://github.com/rudimk/neu-berliner/wiki/Docs). I'll have a proper docs site on RTFD pretty soon.
 
 We'll have updated docs available soon. If you like it and want to contribute, fork the repo, hack away, submit pull requests!
 
