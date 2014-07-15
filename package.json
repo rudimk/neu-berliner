@@ -1,0 +1,23 @@
+{ "name"            : "neu-berliner"
+, "description"     : "A lightweight web framework for Coffeescript"
+, "homepage"        : "http://mathharbor.com/"
+, "author"          : "Rudraksh MK <rudimk.firefly@gmail.com> (http://twitter.com/rudimk)"
+, "keywords"        : ["web", "framework", "lightweight", "coffee-script"]
+
+, "version"         : "0.9.1"
+, "engines"         : {"node": ">=0.4.0"}
+, "main"            : "./neu-berliner"
+, "dependencies"    : {"async":"", "faye-websocket":"", "vault-cipher":"", "haml":"", "ejs":"", "mime":""}
+, "devDependencies" : {"coffee-script":""}
+
+, "licenses"        : [ { "type"  : "MIT"
+                        , "url"   : "http://www.opensource.org/licenses/mit-license.php"
+                        }
+                      ]
+
+, "repositories"    : [ { "type"  : "git"
+                        , "url"   : "git://github.com/rudimk/neu-berliner.git"
+                        }
+                      ]
+}
+
