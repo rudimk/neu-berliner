@@ -6,8 +6,6 @@ Neu Berliner is an extremely lightweight framework for Coffeescript apps. It all
 
 We'll have updated docs available soon. If you like it and want to contribute, fork the repo, hack away, submit pull requests!
 
-PS - Berliner shipped with minifed Coffeescript. I've not minifed the codebase, so that it's easier to read the source. I'll ship a separate minifed version of the code within the repo soon.
-
 
 ## License
 
