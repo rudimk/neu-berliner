@@ -14,6 +14,7 @@ PS - Berliner shipped with minifed Coffeescript. I've not minifed the codebase, 
 (The MIT License)
 
 Copyright (c) 2012 James Coglan
+
 Copyright (c) 2014 Rudraksh MK
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
