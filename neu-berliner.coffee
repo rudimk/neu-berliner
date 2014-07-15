@@ -159,7 +159,7 @@ A = (->
 
           )
     )(this)
-
+# Setting request headers.
   A::render = (s) ->
     s = ((if s is undefined then "" else String(s)))
     A.cipher().encrypt J.stringify(@session), ((_this) ->
@@ -309,7 +309,7 @@ A.call = (req, res) ->
         r = h()
         @render r  if typeof r is "string"
 
-
+# Support WebSockets.
 
 A.ws = (r, s, h) ->
   a = undefined
